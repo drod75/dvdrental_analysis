@@ -8,7 +8,6 @@
     An in-depth analysis of the DVD rental database to uncover trends in movie performance across different categories and related features.
     <br />
     <a href="https://github.com/drod75/dvdrental_analysis/issues">Report Bug</a>
-    ·
     <a href="https://github.com/drod75/dvdrental_analysis/issues">Request Feature</a>
   </p>
 </div>
@@ -84,7 +83,7 @@ You will also need a `.env` file in the root directory with the following variab
 # .env file
 username="your_postgres_username"
 password="your_postgres_password"
-database="dvdrental"
+database="dvd_rental"
 url="https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip"
 savepath="dvdrental.zip"
 tar_name="dvdrental"
